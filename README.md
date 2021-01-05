@@ -6,9 +6,7 @@ Quickly hacked together asteroids game for the wio terminal.
 * Displays a blank screen on boot up
 * Press button A to begin
 
-![](wiroids.jpg)
-
-
+![image showing wiroids in action on a wio terminal](https://github.com/yeeking/wio-roids/blob/master/wioroids.jpg?raw=true)
 
 Christmas 2020 lockdown hack
 
